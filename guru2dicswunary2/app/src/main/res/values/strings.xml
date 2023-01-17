@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">DicSWUnary</string>
+    <string name="say_hi1">Welcome to DicSWUnary</string>
+
+    <!-- MainActivity -->
+    <string name="action_study">공부를 시작해보세요!</string>
+    <string name="action_test">실력을 테스트해 보세요!</string>
+    <string name="action_register">단어 추가하기</string>
+    <string name="error_limit_4_word">테스트는 최소 4개 이상의 단어가 있어야 가능합니다.</string>
+    <string name="error_limit_1_word">등록하신 단어가 없습니다.</string>
+
+    <!-- TestActivity -->
+    <string name="msg_none"></string>
+    <string name="msg_correct">정답입니다!</string>
+    <string name="msg_wrong">오답입니다!</string>
+
+    <!-- StudyActivity -->
+    <string name="msg_study_error">오류가 발생했습니다.</string>
+
+    <!-- EditVocaActivity -->
+    <string name="title_english">영어</string>
+    <string name="title_mean">뜻</string>
+    <string name="title_only_korean">뜻만</string>
+    <string name="title_only_english">영어 의미만</string>
+    <string name="title_both">모두</string>
+
+    <string name="action_confirm">추가히기</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="good_bye">공부 끝!</string>
+</resources>
